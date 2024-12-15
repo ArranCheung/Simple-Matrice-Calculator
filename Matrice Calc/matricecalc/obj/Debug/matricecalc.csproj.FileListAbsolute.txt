@@ -1,0 +1,21 @@
+C:\Users\arran\source\repos\matricecalc\matricecalc\bin\Debug\matricecalc.exe.config
+C:\Users\arran\source\repos\matricecalc\matricecalc\bin\Debug\matricecalc.exe
+C:\Users\arran\source\repos\matricecalc\matricecalc\bin\Debug\matricecalc.pdb
+C:\Users\arran\source\repos\matricecalc\matricecalc\obj\Debug\matricecalc.csproj.AssemblyReference.cache
+C:\Users\arran\source\repos\matricecalc\matricecalc\obj\Debug\matricecalc.csproj.CoreCompileInputs.cache
+C:\Users\arran\source\repos\matricecalc\matricecalc\obj\Debug\matricecalc.exe
+C:\Users\arran\source\repos\matricecalc\matricecalc\obj\Debug\matricecalc.pdb
+\\store\studenthomes\2024\24ac0736\CS\Programming\matricecalc\matricecalc\bin\Debug\matricecalc.exe.config
+\\store\studenthomes\2024\24ac0736\CS\Programming\matricecalc\matricecalc\bin\Debug\matricecalc.exe
+\\store\studenthomes\2024\24ac0736\CS\Programming\matricecalc\matricecalc\bin\Debug\matricecalc.pdb
+\\store\studenthomes\2024\24ac0736\CS\Programming\matricecalc\matricecalc\obj\Debug\matricecalc.csproj.AssemblyReference.cache
+\\store\studenthomes\2024\24ac0736\CS\Programming\matricecalc\matricecalc\obj\Debug\matricecalc.csproj.CoreCompileInputs.cache
+\\store\studenthomes\2024\24ac0736\CS\Programming\matricecalc\matricecalc\obj\Debug\matricecalc.exe
+\\store\studenthomes\2024\24ac0736\CS\Programming\matricecalc\matricecalc\obj\Debug\matricecalc.pdb
+H:\My Drive\CS\Programming\Matrice Calc\matricecalc\obj\Debug\matricecalc.csproj.AssemblyReference.cache
+H:\My Drive\CS\Programming\Matrice Calc\matricecalc\obj\Debug\matricecalc.csproj.CoreCompileInputs.cache
+H:\My Drive\CS\Programming\Matrice Calc\matricecalc\obj\Debug\matricecalc.exe
+H:\My Drive\CS\Programming\Matrice Calc\matricecalc\obj\Debug\matricecalc.pdb
+H:\My Drive\CS\Programming\Matrice Calc\matricecalc\bin\Debug\matricecalc.exe.config
+H:\My Drive\CS\Programming\Matrice Calc\matricecalc\bin\Debug\matricecalc.exe
+H:\My Drive\CS\Programming\Matrice Calc\matricecalc\bin\Debug\matricecalc.pdb
